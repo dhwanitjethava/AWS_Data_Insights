@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":111,
+"FirstName":"David",
+"LastName":"Miller",
+"Age":29,
+"JobTitle":"QA Engineer",
+"Location":"Out of Gujarat",
+"EmailId":"David.Miller@xyz.com",
+"PhoneNo":"67343 66426",
+"JoiningMonth":"April",
+"JoiningYear":"2020",
+"SalaryAccount":"ICICI",
+"Sex":"Male",
+"MaritalStatus":"Married",
+"Education":"Bachelor",
+"YearsOfExperience":7
+}
+]

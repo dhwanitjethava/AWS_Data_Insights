@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":117,
+"FirstName":"Nidhi",
+"LastName":"Patel",
+"Age":24,
+"JobTitle":"HR Executive",
+"Location":"Ahmedabad",
+"EmailId":"Nidhi.Patel@xyz.com",
+"PhoneNo":"92635 22436",
+"JoiningMonth":"October",
+"JoiningYear":"2021",
+"SalaryAccount":"ICICI",
+"Sex":"Female",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":0
+}
+]

@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":112,
+"FirstName":"Shivani",
+"LastName":"Maiyani",
+"Age":21,
+"JobTitle":"Software Engineer",
+"Location":"Rajkot",
+"EmailId":"Shivani.Maiyani@xyz.com",
+"PhoneNo":"92635 23786",
+"JoiningMonth":"May",
+"JoiningYear":"2021",
+"SalaryAccount":"SBI",
+"Sex":"Female",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":0
+}
+]

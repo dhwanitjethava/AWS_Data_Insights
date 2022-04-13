@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":116,
+"FirstName":"Sapna",
+"LastName":"Sarvaiya",
+"Age":21,
+"JobTitle":"Software Engineer",
+"Location":"Gondal",
+"EmailId":"Sapna.Sarvaiya@xyz.com",
+"PhoneNo":"84535 01936",
+"JoiningMonth":"August",
+"JoiningYear":"2021",
+"SalaryAccount":"SBI",
+"Sex":"Female",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":0
+}
+]

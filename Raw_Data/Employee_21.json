@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":121,
+"FirstName":"Dipen",
+"LastName":"Joshi",
+"Age":24,
+"JobTitle":"QA Engineer",
+"Location":"Surat",
+"EmailId":"Dipen.Joshi@xyz.com",
+"PhoneNo":"84725 33936",
+"JoiningMonth":"February",
+"JoiningYear":"2019",
+"SalaryAccount":"SBI",
+"Sex":"Male",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":2
+}
+]

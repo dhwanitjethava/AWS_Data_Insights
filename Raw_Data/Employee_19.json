@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":119,
+"FirstName":"Vishal",
+"LastName":"Akbari",
+"Age":25,
+"JobTitle":"Developer",
+"Location":"Rajkot",
+"EmailId":"Vishal.Akbari@xyz.com",
+"PhoneNo":"56789 66426",
+"JoiningMonth":"April",
+"JoiningYear":"2018",
+"SalaryAccount":"HDFC",
+"Sex":"Male",
+"MaritalStatus":"Married",
+"Education":"Bachelor",
+"YearsOfExperience":3
+}
+]

@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":129,
+"FirstName":"Justin",
+"LastName":"Bieber",
+"Age":35,
+"JobTitle":"Data Analyst",
+"Location":"Out of Gujarat",
+"EmailId":"Justin.Bieber@xyz.com",
+"PhoneNo":"34567 74936",
+"JoiningMonth":"May",
+"JoiningYear":"2015",
+"SalaryAccount":"ICICI",
+"Sex":"Male",
+"MaritalStatus":"Married",
+"Education":"Matric Pass",
+"YearsOfExperience":7
+}
+]

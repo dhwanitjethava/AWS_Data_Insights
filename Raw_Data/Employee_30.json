@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":130,
+"FirstName":"Mamta",
+"LastName":"Patel",
+"Age":37,
+"JobTitle":"Developer",
+"Location":"Bhavnagar",
+"EmailId":"Mamta.Patel@xyz.com",
+"PhoneNo":"94568 74936",
+"JoiningMonth":"September",
+"JoiningYear":"2015",
+"SalaryAccount":"HDFC",
+"Sex":"Female",
+"MaritalStatus":"Married",
+"Education":"Bachelor",
+"YearsOfExperience":7
+}
+]

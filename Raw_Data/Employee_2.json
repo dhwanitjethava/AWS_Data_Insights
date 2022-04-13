@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":102,
+"FirstName":"Hardik",
+"LastName":"Dobariya",
+"Age":23,
+"JobTitle":"Software Engineer",
+"Location":"Ahmedabad",
+"EmailId":"Hardik.Dobariya@xyz.com",
+"PhoneNo":"98678 44425",
+"JoiningMonth":"July",
+"JoiningYear":"2021",
+"SalaryAccount":"SBI",
+"Sex":"Male",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":2
+}
+]

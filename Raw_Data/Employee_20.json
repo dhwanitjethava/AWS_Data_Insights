@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":120,
+"FirstName":"Ruchi",
+"LastName":"Goswami",
+"Age":26,
+"JobTitle":"Software Engineer",
+"Location":"Surat",
+"EmailId":"Ruchi.Goswami@xyz.com",
+"PhoneNo":"84725 61936",
+"JoiningMonth":"February",
+"JoiningYear":"2019",
+"SalaryAccount":"SBI",
+"Sex":"Female",
+"MaritalStatus":"Married",
+"Education":"Bachelor",
+"YearsOfExperience":3
+}
+]

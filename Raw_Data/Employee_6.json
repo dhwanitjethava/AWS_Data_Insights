@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":106,
+"FirstName":"Rita",
+"LastName":"Savaliya",
+"Age":23,
+"JobTitle":"Software Engineer",
+"Location":"Ahmedabad",
+"EmailId":"Rita.Savaliya@xyz.com",
+"PhoneNo":"87745 23456",
+"JoiningMonth":"January",
+"JoiningYear":"2022",
+"SalaryAccount":"HDFC",
+"Sex":"Female",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":0
+}
+]

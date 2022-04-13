@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":128,
+"FirstName":"Parth",
+"LastName":"Mehta",
+"Age":24,
+"JobTitle":"iOS Developer",
+"Location":"Surat",
+"EmailId":"Parth.Mehta@xyz.com",
+"PhoneNo":"86543 55464",
+"JoiningMonth":"December",
+"JoiningYear":"2018",
+"SalaryAccount":"HDFC",
+"Sex":"Male",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":2
+}
+]

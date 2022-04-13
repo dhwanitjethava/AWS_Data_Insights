@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":113,
+"FirstName":"Rakesh",
+"LastName":"Gondaliya",
+"Age":36,
+"JobTitle":"Administration",
+"Location":"Gondal",
+"EmailId":"Rakesh.Gondaliya@xyz.com",
+"PhoneNo":"99999 66426",
+"JoiningMonth":"January",
+"JoiningYear":"2013",
+"SalaryAccount":"HDFC",
+"Sex":"Male",
+"MaritalStatus":"Married",
+"Education":"Masters",
+"YearsOfExperience":9
+}
+]

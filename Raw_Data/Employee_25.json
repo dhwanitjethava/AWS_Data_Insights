@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":125,
+"FirstName":"Nisarg",
+"LastName":"Rajput",
+"Age":26,
+"JobTitle":"Business Analyst",
+"Location":"Surat",
+"EmailId":"Nisarg.Rajput@xyz.com",
+"PhoneNo":"77725 61936",
+"JoiningMonth":"April",
+"JoiningYear":"2020",
+"SalaryAccount":"SBI",
+"Sex":"Male",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":2
+}
+]

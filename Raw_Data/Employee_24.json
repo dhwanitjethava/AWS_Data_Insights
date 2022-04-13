@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":124,
+"FirstName":"Jasmeen",
+"LastName":"Goyani",
+"Age":23,
+"JobTitle":"Developer",
+"Location":"Surat",
+"EmailId":"Jasmeen.Goyani@xyz.com",
+"PhoneNo":"76263 54936",
+"JoiningMonth":"November",
+"JoiningYear":"2020",
+"SalaryAccount":"HDFC",
+"Sex":"Female",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":0
+}
+]

@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":107,
+"FirstName":"Shubham",
+"LastName":"Kuswa",
+"Age":26,
+"JobTitle":"Software Engineer",
+"Location":"Ahmedabad",
+"EmailId":"Shubham.Kuswa@xyz.com",
+"PhoneNo":"98678 66426",
+"JoiningMonth":"July",
+"JoiningYear":"2020",
+"SalaryAccount":"ICICI",
+"Sex":"Male",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":3
+}
+]

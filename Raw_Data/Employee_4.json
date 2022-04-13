@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":104,
+"FirstName":"Yash",
+"LastName":"Dobariya",
+"Age":24,
+"JobTitle":"Developer",
+"Location":"Junagadh",
+"EmailId":"Yash.Dobariya@xyz.com",
+"PhoneNo":"98678 00000",
+"JoiningMonth":"September",
+"JoiningYear":"2021",
+"SalaryAccount":"HDFC",
+"Sex":"Male",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":2
+}
+]

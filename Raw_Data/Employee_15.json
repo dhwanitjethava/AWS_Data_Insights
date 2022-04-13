@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":115,
+"FirstName":"Jinkal",
+"LastName":"Jagani",
+"Age":32,
+"JobTitle":"iOS Developer",
+"Location":"Ahmedabad",
+"EmailId":"Jinkal.Jagani@xyz.com",
+"PhoneNo":"86568 99999",
+"JoiningMonth":"May",
+"JoiningYear":"2018",
+"SalaryAccount":"SBI",
+"Sex":"Male",
+"MaritalStatus":"Married",
+"Education":"Bachelor",
+"YearsOfExperience":7
+}
+]

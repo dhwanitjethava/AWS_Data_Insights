@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":126,
+"FirstName":"Maitree",
+"LastName":"Jethava",
+"Age":24,
+"JobTitle":"HR Executive",
+"Location":"Vadodara",
+"EmailId":"Maitree.Jethava@xyz.com",
+"PhoneNo":"77777 54936",
+"JoiningMonth":"January",
+"JoiningYear":"2022",
+"SalaryAccount":"HDFC",
+"Sex":"Female",
+"MaritalStatus":"Married",
+"Education":"Masters",
+"YearsOfExperience":0
+}
+]

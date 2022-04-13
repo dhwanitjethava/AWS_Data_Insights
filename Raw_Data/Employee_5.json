@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":105,
+"FirstName":"Gopal",
+"LastName":"Sakhiya",
+"Age":26,
+"JobTitle":"QA Engineer",
+"Location":"Ahmedabad",
+"EmailId":"Gopal.Sakhiya@xyz.com",
+"PhoneNo":"98678 36426",
+"JoiningMonth":"July",
+"JoiningYear":"2019",
+"SalaryAccount":"HDFC",
+"Sex":"Male",
+"MaritalStatus":"Unmarried",
+"Education":"Masters",
+"YearsOfExperience":2
+}
+]

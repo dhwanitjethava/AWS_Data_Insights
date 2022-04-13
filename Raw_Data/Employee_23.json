@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":123,
+"FirstName":"Prashant",
+"LastName":"Vora",
+"Age":23,
+"JobTitle":"Business Analyst",
+"Location":"Rajkot",
+"EmailId":"Prashant.Vora@xyz.com",
+"PhoneNo":"84725 61996",
+"JoiningMonth":"February",
+"JoiningYear":"2020",
+"SalaryAccount":"SBI",
+"Sex":"Male",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":2
+}
+]

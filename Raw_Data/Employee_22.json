@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":122,
+"FirstName":"Hardi",
+"LastName":"Patel",
+"Age":24,
+"JobTitle":"iOS Developer",
+"Location":"Jamnagar",
+"EmailId":"Hardi.Patel@xyz.com",
+"PhoneNo":"76543 21936",
+"JoiningMonth":"July",
+"JoiningYear":"2020",
+"SalaryAccount":"HDFC",
+"Sex":"Female",
+"MaritalStatus":"Unmarried",
+"Education":"Masters",
+"YearsOfExperience":1
+}
+]

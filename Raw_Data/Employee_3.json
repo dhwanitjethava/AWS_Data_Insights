@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":103,
+"FirstName":"Ajay",
+"LastName":"Radadiya",
+"Age":27,
+"JobTitle":"QA Engineer",
+"Location":"Junagadh",
+"EmailId":"Ajay.Radadiya@xyz.com",
+"PhoneNo":"98678 36425",
+"JoiningMonth":"February",
+"JoiningYear":"2021",
+"SalaryAccount":"HDFC",
+"Sex":"Male",
+"MaritalStatus":"Married",
+"Education":"Bachelor",
+"YearsOfExperience":3
+}
+]

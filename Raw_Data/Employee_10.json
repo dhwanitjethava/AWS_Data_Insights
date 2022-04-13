@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":110,
+"FirstName":"Khushbu",
+"LastName":"Satasiya",
+"Age":22,
+"JobTitle":"Software Engineer",
+"Location":"Surat",
+"EmailId":"Khushbu.Satasiya@xyz.com",
+"PhoneNo":"92635 23336",
+"JoiningMonth":"September",
+"JoiningYear":"2021",
+"SalaryAccount":"HDFC",
+"Sex":"Female",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":0
+}
+]

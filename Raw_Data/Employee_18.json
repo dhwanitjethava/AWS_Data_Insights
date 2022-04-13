@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":118,
+"FirstName":"Vedanki",
+"LastName":"Dodiya",
+"Age":29,
+"JobTitle":"HR Executive",
+"Location":"Gandhinagar",
+"EmailId":"Vedanki.Dodiya@xyz.com",
+"PhoneNo":"84725 61936",
+"JoiningMonth":"June",
+"JoiningYear":"2018",
+"SalaryAccount":"ICICI",
+"Sex":"Female",
+"MaritalStatus":"Married",
+"Education":"Masters",
+"YearsOfExperience":5
+}
+]

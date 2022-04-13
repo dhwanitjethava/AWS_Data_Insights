@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":108,
+"FirstName":"Shreya",
+"LastName":"Patel",
+"Age":24,
+"JobTitle":"Developer",
+"Location":"Ahmedabad",
+"EmailId":"Sheya.Patel@xyz.com",
+"PhoneNo":"87645 23786",
+"JoiningMonth":"April",
+"JoiningYear":"2022",
+"SalaryAccount":"SBI",
+"Sex":"Female",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":1
+}
+]

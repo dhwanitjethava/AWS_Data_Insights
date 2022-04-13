@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":126,
+"FirstName":"Janvi",
+"LastName":"Kalavadiya",
+"Age":21,
+"JobTitle":"Software Engineer",
+"Location":"Bhavnagar",
+"EmailId":"Janvi.Kalavadiya@xyz.com",
+"PhoneNo":"98243 54936",
+"JoiningMonth":"January",
+"JoiningYear":"2022",
+"SalaryAccount":"SBI",
+"Sex":"Female",
+"MaritalStatus":"Unmarried",
+"Education":"Bachelor",
+"YearsOfExperience":0
+}
+]
