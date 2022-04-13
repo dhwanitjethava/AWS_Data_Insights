@@ -1,0 +1,19 @@
+[
+{
+"EmployeeId":101,
+"FirstName":"Dhwanit",
+"LastName":"Jethava",
+"Age":27,
+"JobTitle":"DevOps Engineer",
+"Location":"Vadodara",
+"EmailId":"Dhwanit.Jethava@xyz.com",
+"PhoneNo":"98678 34425",
+"JoiningMonth":"December",
+"JoiningYear":"2021",
+"SalaryAccount":"SBI",
+"Sex":"Male",
+"MaritalStatus":"Married",
+"Education":"Masters",
+"YearsOfExperience":0
+}
+]
